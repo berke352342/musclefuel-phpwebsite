@@ -35,9 +35,7 @@
     public function update($id, $data) {
          return true; 
         }
-    public function delete($id) { 
-        return true;
-     }
 }
+
 
 ?>
