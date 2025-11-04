@@ -14,4 +14,5 @@
      <a href="shop.php"> Shop</a>
      <a href="register.php">Register</a>
    </nav>
+
 </header>
